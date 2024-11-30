@@ -3,7 +3,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
-https://ushls.ballbar.net/Channel5/playlist-15.m3u8a?t=1732928069&token=7b1f8973bd2c8bca058441c519a5719b
+http://bstvcdn.ballbar.net/Channel5HD/playlist-15.m3u8a?t=1732931574&token=e13d51e13c144103d6ee8766d502342c
 
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
 http://bstvcdn.ballbar.net/Channel8HD/playlist-15.m3u8a?t=1732930217&token=db79fcf2a00227958fca6d4b054c18cf
