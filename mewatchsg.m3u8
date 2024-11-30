@@ -3,19 +3,19 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
-http://bstvcdn.ballbar.net/Channel5HD/playlist-15.m3u8a?t=1732931574&token=e13d51e13c144103d6ee8766d502342c
+http://bstvcdn.ballbar.net/Channel5HD/playlist-15.m3u8a?t=1732964961&token=52be1fd516f479bf30d69d4b18b83fb6
 
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
-http://bstvcdn.ballbar.net/Channel8HD/playlist-15.m3u8a?t=1732930217&token=db79fcf2a00227958fca6d4b054c18cf
+http://bstvcdn.ballbar.net/Channel8HD/playlist-15.m3u8a?t=1732965066&token=9d60c568b2d012f552c7cb982d5bfb0f
 
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
-http://bstvcdn.ballbar.net/ChannelU/playlist-15.m3u8a?t=1732930131&token=c6b32dcc97bafbfacf7635c620e64255
+http://bstvcdn.ballbar.net/ChannelU/playlist-15.m3u8a?t=1732965123&token=1c0c083f7fc556596e465a4ae170ffe6
 
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
-https://bstvcdn.ballbar.net/Cna264/playlist-13.m3u8an?t=1732929293&token=2a36e2100e21b93ce40b73504e714e7f
+http://bstvcdn.ballbar.net/cna/playlist-15.m3u8a?t=1732965215&token=f2ccca9f43d640215b7a2bc5ef1e6f4b
 
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
-https://bstvcdn.ballbar.net/Suria264/playlist-13.m3u8an?t=1732929390&token=9d26d62099f593ba79cd6ecb9785c877
+http://bstvcdn.ballbar.net/Suria/playlist-15.m3u8a?t=1732965168&token=532c4342a90db70030757c21d54b91cd
 
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 http://bstvcdn.ballbar.net/Vasantham/playlist-15.m3u8a?t=1732929540&token=8c528f6d6719d9f9ba5f57142b8ac873
