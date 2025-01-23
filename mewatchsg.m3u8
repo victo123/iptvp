@@ -1,21 +1,189 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/compressed/singapore.xml.gz" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U
-
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
-http://bstvcdn.ballbar.net/Channel5HD/playlist-15.m3u8a?t=1732964961&token=52be1fd516f479bf30d69d4b18b83fb6
-
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
-http://bstvcdn.ballbar.net/Channel8HD/playlist-15.m3u8a?t=1732965066&token=9d60c568b2d012f552c7cb982d5bfb0f
-
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
-http://bstvcdn.ballbar.net/ChannelU/playlist-15.m3u8a?t=1732965123&token=1c0c083f7fc556596e465a4ae170ffe6
-
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
-http://bstvcdn.ballbar.net/cna/playlist-15.m3u8a?t=1732965215&token=f2ccca9f43d640215b7a2bc5ef1e6f4b
-
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
-http://bstvcdn.ballbar.net/Suria/playlist-15.m3u8a?t=1732965168&token=532c4342a90db70030757c21d54b91cd
-
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
-http://bstvcdn.ballbar.net/Vasantham/playlist-15.m3u8a?t=1732929540&token=8c528f6d6719d9f9ba5f57142b8ac873
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="AXN" tvg-id="369266" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/04/large/20220304183232988763_53.jpg" group-title="Movies",[BD]axn
+https://stream1.freetv.fun/axn-4.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-id="369266" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/04/large/20220304183232988763_53.jpg" group-title="Movies",[SD]AXN
+https://stream1.freetv.fun/axn-5.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-id="369266" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/04/large/20220304183232988763_53.jpg" group-title="Movies",[SD]axn
+https://stream1.freetv.fun/axn-1.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-id="369266" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/04/large/20220304183232988763_53.jpg" group-title="Movies",[HD]axn
+https://stream1.freetv.fun/axn-9.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-id="369266" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/04/large/20220304183232988763_53.jpg" group-title="Movies",[BD]axn
+https://stream1.freetv.fun/axn-7.m3u8
+#EXTINF:-1 tvg-name="Afn" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Other",[BD]AFN
+https://stream1.freetv.fun/afn-1.ctv
+#EXTINF:-1 tvg-name="CNA" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[BD]cna
+https://stream1.freetv.fun/cna-8.m3u8
+#EXTINF:-1 tvg-name="CNA" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[BD]cna
+https://stream1.freetv.fun/cna-12.m3u8
+#EXTINF:-1 tvg-name="CNA" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[SD]cna
+https://stream1.freetv.fun/cna-3.m3u8
+#EXTINF:-1 tvg-name="CNA" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[BD]cna
+https://stream1.freetv.fun/cna-4.m3u8
+#EXTINF:-1 tvg-name="CNA Insider" tvg-id="" tvg-country="Singapore" tvg-language="Tamil" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222330540612_94.png" group-title="Other",[BD]insider
+https://stream1.freetv.fun/insider-1.m3u8
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="369761" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[BD]channel 5
+https://stream1.freetv.fun/channel-5-4.m3u8
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="369761" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[BD]channel 5
+https://stream1.freetv.fun/channel-5-5.m3u8
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="369761" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[BD]channel 5
+https://stream1.freetv.fun/channel-5-1.m3u8
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="369761" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[SD]Channel 5
+https://stream1.freetv.fun/channel-5-2.m3u8
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="369761" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="Generic",[BD]dc council channel
+https://stream1.freetv.fun/dc-council-channel-1.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[BD]in the box channel
+https://stream1.freetv.fun/in-the-box-channel-1.ctv
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[BD]channel 8 kurdish[geo-blocked]
+https://stream1.freetv.fun/channel-8-kurdish-1.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[BD]channel8
+https://stream1.freetv.fun/channel8-1.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[BD]Channel 8
+https://stream1.freetv.fun/channel-8-5.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[BD]泰国-white channel[1920*1080]
+https://stream1.freetv.fun/tai-guo--white-channel-1.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[BD]dove channel
+https://stream1.freetv.fun/dove-channel-2.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[BD]channel 8
+https://stream1.freetv.fun/channel-8-4.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[HD]novela channel
+https://stream1.freetv.fun/novela-channel-1.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[HD]wfmz-tv channel 69
+https://stream1.freetv.fun/wfmz-tv-channel-69-2.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[BD]channel 11
+https://stream1.freetv.fun/channel-11-2.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[BD]february channel
+https://stream1.freetv.fun/february-channel-1.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[HD]z! channel hd
+https://stream1.freetv.fun/z--channel-1.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[BD]bso channel[1920*1080]
+https://stream1.freetv.fun/bso-channel-1.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[BD]channel 8
+https://stream1.freetv.fun/channel-8-3.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[HD]channel k
+https://stream1.freetv.fun/channel-k-1.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[HD]cable channel 37
+https://stream1.freetv.fun/cable-channel-37-1.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[BD]bso channel[1920*1080]
+https://stream1.freetv.fun/bso-channel-2.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[HD]channel k
+https://stream1.freetv.fun/channel-k-3.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[VGA]tvs family channel
+https://stream1.freetv.fun/tvs-family-channel-1.m3u8
+#EXTINF:-1 tvg-name="Channel 8" tvg-id="369820" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Movies",[SD]ivoire channel
+https://stream1.freetv.fun/ivoire-channel-1.m3u8
+#EXTINF:-1 tvg-name="Channel U" tvg-id="369776" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105211108563670_68.jpg" group-title="Entertainment",[BD]channelu
+https://stream1.freetv.fun/channelu-1.m3u8
+#EXTINF:-1 tvg-name="Cinema World" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000625090581_44.png" group-title="Movies",[BD]cinema world
+https://stream1.freetv.fun/cinema-world-3.ctv
+#EXTINF:-1 tvg-name="Cinema World" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000625090581_44.png" group-title="Movies",[VGA]cinema world
+https://stream1.freetv.fun/cinema-world-1.m3u8
+#EXTINF:-1 tvg-name="Cinema World" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000625090581_44.png" group-title="Movies",[VGA]cinema world
+https://stream1.freetv.fun/cinema-world-2.m3u8
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="3200" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movies",[BD]cinemaworld
+https://stream1.freetv.fun/cinemaworld-3.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="3200" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Movies",[HD]cinemaworld
+https://stream1.freetv.fun/cinemaworld-1.m3u8
+#EXTINF:-1 tvg-name="DIVA" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/DIVA.png" group-title="Movies",[SD]DIVA
+https://stream1.freetv.fun/diva-1.ctv
+#EXTINF:-1 tvg-name="DIVA Universal" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/16/large/20220516154353281341_74.jpg" group-title="Generic",[VGA]tv universal
+https://stream1.freetv.fun/tv-universal-1.m3u8
+#EXTINF:-1 tvg-name="HBO Family(SG)" tvg-id="368230" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/08/13/large/20240813060736625616_98.png" group-title="Movies",[HD]HBO Family
+https://stream1.freetv.fun/hbo-family-12.ctv
+#EXTINF:-1 tvg-name="HBO HITS(SG)" tvg-id="368227" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/08/16/large/20240816042053151651_41.png" group-title="Movies",[HD]HBO Hits
+https://stream1.freetv.fun/hbo-hits-1.ctv
+#EXTINF:-1 tvg-name="HBO Signature(SG)" tvg-id="368223" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/08/13/large/20240813185746325625_14.png" group-title="Movies",[BD]HBO Signature
+https://stream1.freetv.fun/hbo-signature-12.ctv
+#EXTINF:-1 tvg-name="HBO(SG)" tvg-id="368207" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610185515792605_67.png" group-title="Movies",[HD]HBO
+https://stream1.freetv.fun/hbo-12.ctv
+#EXTINF:-1 tvg-name="HBO(SG)" tvg-id="368207" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610185515792605_67.png" group-title="Movies",[HD]HBO
+https://stream1.freetv.fun/hbo-11.ctv
+#EXTINF:-1 tvg-name="HBO(SG)" tvg-id="368207" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610185515792605_67.png" group-title="Movies",[HD]HBO
+https://stream1.freetv.fun/hbo-9.ctv
+#EXTINF:-1 tvg-name="HBO(SG)" tvg-id="368207" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610185515792605_67.png" group-title="Movies",[HD]HBO
+https://stream1.freetv.fun/hbo-8.ctv
+#EXTINF:-1 tvg-name="HBO(SG)" tvg-id="368207" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610185515792605_67.png" group-title="Movies",[BD]myx philippines
+https://stream1.freetv.fun/myx-philippines-1.m3u8
+#EXTINF:-1 tvg-name="HITS" tvg-id="368306" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/06/11/large/20240611010900183106_94.jpg" group-title="Movies",[HD]HITS
+https://stream1.freetv.fun/hits-13.ctv
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="368258" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movies",[HD]hits movies
+https://stream1.freetv.fun/hits-movies-3.m3u8
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="368258" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movies",[HD]hitsmovies
+https://stream1.freetv.fun/hitsmovies-3.m3u8
+#EXTINF:-1 tvg-name="HITS Movies" tvg-id="368258" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/16/large/20220616161956076533_82.jpg" group-title="Movies",[HD]HITS Movies
+https://stream1.freetv.fun/hits-movies-6.ctv
+#EXTINF:-1 tvg-name="Hits(TW)" tvg-id="368845" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/06/11/large/20240611010918611570_10.jpg" group-title="Movies",[HD]xite hits
+https://stream1.freetv.fun/xite-hits-1.m3u8
+#EXTINF:-1 tvg-name="Hits(TW)" tvg-id="368845" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/06/11/large/20240611010918611570_10.jpg" group-title="Movies",[BD]hits
+https://stream1.freetv.fun/hits-8.m3u8
+#EXTINF:-1 tvg-name="Hits(TW)" tvg-id="368845" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/06/11/large/20240611010918611570_10.jpg" group-title="Movies",[HD]hits
+https://stream1.freetv.fun/hits-1.m3u8
+#EXTINF:-1 tvg-name="Hits(TW)" tvg-id="368845" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/06/11/large/20240611010918611570_10.jpg" group-title="Movies",[BD]hits
+https://stream1.freetv.fun/hits-15.ctv
+#EXTINF:-1 tvg-name="Hits(TW)" tvg-id="368845" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/06/11/large/20240611010918611570_10.jpg" group-title="Movies",[HD]hits
+https://stream1.freetv.fun/hits-9.m3u8
+#EXTINF:-1 tvg-name="KIX" tvg-id="171877" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/kix_1.jpg" group-title="Movies",[HD]KIX
+https://stream1.freetv.fun/kix-10.ctv
+#EXTINF:-1 tvg-name="KIX" tvg-id="171877" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/kix_1.jpg" group-title="Movies",[HD]KIX
+https://stream1.freetv.fun/kix-11.ctv
+#EXTINF:-1 tvg-name="Lifetime Asia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001622847044_84.png" group-title="Entertainment",[BD]Limetime
+https://stream1.freetv.fun/limetime-1.ctv
+#EXTINF:-1 tvg-name="Lifetime Asia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001622847044_84.png" group-title="Entertainment",[BD]LIFETIME
+https://stream1.freetv.fun/lifetime-2.ctv
+#EXTINF:-1 tvg-name="Lifetime Asia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001622847044_84.png" group-title="Entertainment",[BD]LIFETIME
+https://stream1.freetv.fun/lifetime-3.ctv
+#EXTINF:-1 tvg-name="Lifetime Asia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001622847044_84.png" group-title="Entertainment",[BD]LIFETIME
+https://stream1.freetv.fun/lifetime-10.ctv
+#EXTINF:-1 tvg-name="Lifetime Asia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001622847044_84.png" group-title="Entertainment",[BD]LIFETIME
+https://stream1.freetv.fun/lifetime-7.ctv
+#EXTINF:-1 tvg-name="Lifetime Asia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001622847044_84.png" group-title="Entertainment",[BD]LIFETIME
+https://stream1.freetv.fun/lifetime-1.ctv
+#EXTINF:-1 tvg-name="Lifetime Asia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001622847044_84.png" group-title="Entertainment",[BD]LIFETIME
+https://stream1.freetv.fun/lifetime-4.ctv
+#EXTINF:-1 tvg-name="Lifetime Asia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001622847044_84.png" group-title="Entertainment",[BD]LIFETIME
+https://stream1.freetv.fun/lifetime-11.ctv
+#EXTINF:-1 tvg-name="Lifetime Asia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001622847044_84.png" group-title="Entertainment",[BD]LIFETIME
+https://stream1.freetv.fun/lifetime-9.ctv
+#EXTINF:-1 tvg-name="Lifetime Asia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001622847044_84.png" group-title="Entertainment",[BD]LIFETIME
+https://stream1.freetv.fun/lifetime-13.ctv
+#EXTINF:-1 tvg-name="MOB TV" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/975f6e97f9a2f1d458e921173ff8ac7e.jpg" group-title="Other",[BD]m2o tv
+https://stream1.freetv.fun/m2o-tv-1.m3u8
+#EXTINF:-1 tvg-name="Mediacorp Channel U" tvg-id="" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/19/20160519140203515097_77.jpg" group-title="Entertainment",[BD]Channel U
+https://stream1.freetv.fun/channel-u-2.m3u8
+#EXTINF:-1 tvg-name="News CNA" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/29/large/20200429223545383179_83.png" group-title="News",[BD]cnanews-hd（新加坡）
+https://stream1.freetv.fun/cnanews-hd-xin-jia-po-2.m3u8
+#EXTINF:-1 tvg-name="News CNA" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/04/29/large/20200429223545383179_83.png" group-title="News",[BD]cnanews-hd（新加坡）
+https://stream1.freetv.fun/cnanews-hd-xin-jia-po-1.m3u8
+#EXTINF:-1 tvg-name="Rock Action" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/01/01/large/20240101221854465363_64.jpg" group-title="Movies",[VGA]rock action[geo-blocked]
+https://stream1.freetv.fun/rock-action-2.ctv
+#EXTINF:-1 tvg-name="Rock Action" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/01/01/large/20240101221854465363_64.jpg" group-title="Movies",[BD]rockaction
+https://stream1.freetv.fun/rockaction-1.m3u8
+#EXTINF:-1 tvg-name="Rock Action" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/01/01/large/20240101221854465363_64.jpg" group-title="Movies",[BD]ROCK Action
+https://stream1.freetv.fun/rock-action-3.m3u8
+#EXTINF:-1 tvg-name="Rock Action" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/01/01/large/20240101221854465363_64.jpg" group-title="Movies",[HD]Rock Action
+https://stream1.freetv.fun/rock-action-1.ctv
+#EXTINF:-1 tvg-name="SPOTV Stadia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/06/14/large/20240614195004287052_86.png" group-title="Sports",[BD]spotv
+https://stream1.freetv.fun/spotv-4.m3u8
+#EXTINF:-1 tvg-name="SPOTV2 Stadia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/06/14/large/20240614200339945979_93.png" group-title="Sports",[HD]радио шансон
+https://stream1.freetv.fun/radio-shanson-1.m3u8
+#EXTINF:-1 tvg-name="Sony Channel" tvg-id="" tvg-country="Singapore" tvg-language="Tamil" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222356211623_41.png" group-title="Movies",[HD]sony channel
+https://stream1.freetv.fun/sony-channel-1.ctv
+#EXTINF:-1 tvg-name="Sony One HD" tvg-id="369728" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/img/logo/sony_one.jpg" group-title="Movies",[SD]Sony One
+https://stream1.freetv.fun/sony-one-1.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="369782" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]Suria
+https://stream1.freetv.fun/suria-3.ctv
+#EXTINF:-1 tvg-name="Suria" tvg-id="369782" tvg-country="Singapore" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2019/01/05/large/20190105210438073342_29.png" group-title="Generic",[HD]suria
+https://stream1.freetv.fun/suria-2.ctv
+#EXTINF:-1 tvg-name="THRILL" tvg-id="368339" tvg-country="Singapore" tvg-language="Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movies",[SD]thrill
+https://stream1.freetv.fun/thrill-1.m3u8
+#EXTINF:-1 tvg-name="THRILL" tvg-id="368339" tvg-country="Singapore" tvg-language="Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movies",[SD]thrill
+https://stream1.freetv.fun/thrill-3.m3u8
+#EXTINF:-1 tvg-name="THRILL" tvg-id="368339" tvg-country="Singapore" tvg-language="Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movies",[SD]thriil
+https://stream1.freetv.fun/thriil-1.m3u8
+#EXTINF:-1 tvg-name="THRILL" tvg-id="368339" tvg-country="Singapore" tvg-language="Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movies",[SD]Thrill
+https://stream1.freetv.fun/thrill-2.m3u8
+#EXTINF:-1 tvg-name="THRILL" tvg-id="368339" tvg-country="Singapore" tvg-language="Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movies",[SD]thriil
+https://stream1.freetv.fun/thriil-2.m3u8
+#EXTINF:-1 tvg-name="THRILL" tvg-id="368339" tvg-country="Singapore" tvg-language="Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Movies",[SD]Thrill
+https://stream1.freetv.fun/thrill-4.m3u8
+#EXTINF:-1 tvg-name="TLC Singapore" tvg-id="369720" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/08/13/large/20240813025811516254_30.png" group-title="Entertainment",[HD]TLC
+https://stream1.freetv.fun/tlc-1.ctv
