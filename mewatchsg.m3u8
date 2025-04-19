@@ -27,7 +27,7 @@ https://stream1.freetv.fun/205ccbcaa121ec25fc65df5f2917c3d10e4663618666c54ff9084
 https://stream1.freetv.fun/1f9e2aa169ee7d805fed1e3077a9a6b38a57937eb15a7bc69b95b6d909ff7549.ctv
 #EXTINF:-1 tvg-name="CNA" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[BD]cna
 https://stream1.freetv.fun/c43770050ab536ec324d970ac910557c994334aef9d1d3be305db2813476a347.m3u8
-#EXTINF:-1 tvg-name="CNA" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[BD]cna
+#EXTINF:-1 tvg-name="CNA 1" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="News",[BD]cna
 https://stream1.freetv.fun/92cc442300c5880e302814cdf279ce0ee183c2dec3802661e8c7dd601d2a9652.m3u8
 #EXTINF:-1 tvg-name="CNA Insider" tvg-id="" tvg-country="Singapore" tvg-language="Tamil" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222330540612_94.png" group-title="Other",[BD]insider
 https://stream1.freetv.fun/c6f18bde45def005cfd831bee639e6aa807ff83bf74e1528fac075d088db6d7d.m3u8
@@ -159,3 +159,4 @@ https://stream1.freetv.fun/fad0063d743e8c04d498b603691c91e2e5473fa4a0036d92c4720
 https://stream1.freetv.fun/0b209467ec2776fa999254716a0441f96768067b9f5bc56de4188f191abeee9a.ctv
 #EXTINF:-1 tvg-name="亞洲美食臺" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/01/31/large/20160131162252244770_30.png" group-title="Other",[HD]亞洲美食
 https://stream1.freetv.fun/c562f1afd0175332610cad8a13d29d4a001388cc9204610f4cabdde70358c8f8.ctv
+
